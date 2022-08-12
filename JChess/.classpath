@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/nandan/Downloads/guavaJava/checker-qual-3.12.0.jar"/>
+	<classpathentry kind="lib" path="/home/nandan/Downloads/guavaJava/error_prone_annotations-2.11.0.jar"/>
+	<classpathentry kind="lib" path="/home/nandan/Downloads/guavaJava/failureaccess-1.0.1.jar"/>
+	<classpathentry kind="lib" path="/home/nandan/Downloads/guavaJava/guava-31.1-jre.jar"/>
+	<classpathentry kind="lib" path="/home/nandan/Downloads/guavaJava/j2objc-annotations-1.3.jar"/>
+	<classpathentry kind="lib" path="/home/nandan/Downloads/guavaJava/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="/home/nandan/Downloads/guavaJava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
